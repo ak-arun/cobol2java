@@ -2,4 +2,4 @@
 WIP code for mainframe data bytes to Java Strings
 
 
-CobolDataReader is inspired by https://github.com/tmeisenh/jccl
+CobolDataReader is inspired by gitbub project https://github.com/tmeisenh/jccl
